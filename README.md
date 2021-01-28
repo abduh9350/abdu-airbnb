@@ -1,6 +1,6 @@
 # AirBnb Clone
 
-[http://localhost:3000](LiveApp)
+[https://abdu-airbnb.netlify.app/]
 
 ### Tools I used:
 
